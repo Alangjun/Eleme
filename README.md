@@ -5,8 +5,13 @@ vue2.0，vue-router，eslint，better-scroll等
 基于vue2.0+webpack搭建的仿照饿了么app外卖平台，包括 商品、评论、商家 三大主页面及其子页面
 ## 主要界面
 ![](https://github.com/Alangjun/Eleme/raw/master/img/goods.png)
+<br>
 ![](https://github.com/Alangjun/Eleme/raw/master/img/foods.png)
+<br>
 ![](https://github.com/Alangjun/Eleme/raw/master/img/seller.png)
+<br>
 ![](https://github.com/Alangjun/Eleme/raw/master/img/rating.png)
+<br>
 ![](https://github.com/Alangjun/Eleme/raw/master/img/tan.png)
+<br>
 ![](https://github.com/Alangjun/Eleme/raw/master/img/cart.png)
